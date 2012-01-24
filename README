@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3904
+
+NSL, Next Synthesis Language, is a one of the Hardware Description Language and successor of SFL. NSL is Register Transfer Level HDL, the syntax is like C.
+Please see here: http://www.ip-arch.jp/indexe.html http://www.overtone.co.jp/en/products/about_nsl/
+
+NSL can be converted to Verilog HDL or VHDL or System C with NSL Core.
